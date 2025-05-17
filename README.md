@@ -9,7 +9,13 @@
 
 # Picior, rutina de control & stretching
 
-1. "apasă pe pedală" 
-1. opusul lui "apasă pe pedală"
-1. ... dreapta
-1. ... stănga
+1. laba piciorului
+   1. "apasă pe pedală" 
+   1. opusul lui "apasă pe pedală"
+   1. ... dreapta
+   1. ... stânga
+   
+   
+1. stretching laba piciorului cat bai mult pe spate
+1. rotații laba piciorului
+1. 
