@@ -22,10 +22,10 @@
 1. ridicare picior de pe scaun (de mutat?)
 
 
-# Mâna, control & streching
-
+# Mâna, control & stretching
+   
 1. închidere-deschidere pumn
 1. pumnul sus, jos, dreapta, stânga
 
 
-# 
+# În picioare
