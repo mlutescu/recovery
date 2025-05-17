@@ -18,4 +18,14 @@
    
 1. stretching laba piciorului cat bai mult pe spate
 1. rotații laba piciorului
-1. 
+1. pozitia de pârțuri
+1. ridicare picior de pe scaun (de mutat?)
+
+
+# Mâna, control & streching
+
+1. închidere-deschidere pumn
+1. pumnul sus, jos, dreapta, stânga
+
+
+# 
